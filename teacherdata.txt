@@ -1,0 +1,5 @@
+New teacher file is created succussfully ... 
+student id: 1537 student name: Ahmad student class: CS34 student section: A2
+student id: 3056 student name: Mohammed student class: CS21 student section: A2
+student id: 9045 student name: Fahad student class: CS33 student section: C2
+student id: 1011 student name: Saleh student class: CS09 student section: A4
