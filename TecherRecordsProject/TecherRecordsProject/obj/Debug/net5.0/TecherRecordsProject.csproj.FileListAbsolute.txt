@@ -1,0 +1,16 @@
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.exe
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.deps.json
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.runtimeconfig.json
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.runtimeconfig.dev.json
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.dll
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\ref\TecherRecordsProject.dll
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\bin\Debug\net5.0\TecherRecordsProject.pdb
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.csproj.AssemblyReference.cache
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.AssemblyInfoInputs.cache
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.AssemblyInfo.cs
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.csproj.CoreCompileInputs.cache
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.dll
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\ref\TecherRecordsProject.dll
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.pdb
+C:\Users\eleen\source\repos\TecherRecordsProject\TecherRecordsProject\obj\Debug\net5.0\TecherRecordsProject.genruntimeconfig.cache
